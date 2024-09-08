@@ -46,8 +46,8 @@ const MeetingRoom = () => {
   };
   return (
     <section className="relative h-screen w-full text-white">
-      <div className="flex h-screen xl:h-[80vh] items-center justify-center">
-        <div className="flex flex-wrap size-full max-w-[80vw] items-center">
+      <div className="flex h-screen items-center justify-center">
+        <div className="flex size-full w-[90vw] items-center justify-center">
           <CallLayout />
         </div>
         <div
