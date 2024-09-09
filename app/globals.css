@@ -10,14 +10,13 @@
 
 /* ======== stream css overrides ======== */
 .str-video__call-stats {
-  max-width: 500px;
+  max-width: 750px;
   position: relative;
 }
 
 /* .str-video__speaker-layout__wrapper {
   max-height: 700px;
 } */
-
 
 .str-video__participant-details {
   color: white;
@@ -85,6 +84,18 @@
 
 .cl-navbarButton {
   color: white;
+}
+
+.cl-internal-lk7758 {
+  display: none;
+}
+
+.cl-internal-16vtwdp {
+  display: none;
+}
+
+.cl-internal-y44tp9 {
+  padding: 3px;
 }
 
 .cl-internal-df7v37 {
