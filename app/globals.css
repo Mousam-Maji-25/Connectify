@@ -10,7 +10,7 @@
 
 /* ======== stream css overrides ======== */
 .str-video__call-stats {
-  max-width: 750px;
+  max-width: 1000px;
   position: relative;
 }
 
@@ -39,9 +39,9 @@
   height: 100%;
 }
 
-.str-video__call-controls__button {
+/* .str-video__call-controls__button {
   height: 40px;
-}
+} */
 
 .glassmorphism {
   background: rgba(255, 255, 255, 0.25);
